@@ -98,7 +98,7 @@ public class ClearTextView extends TextView {
     /**
      * Copies text as bitmap and applies it as mask to the bitmap background.
      * Sets result as background.
-     * Set text color to transaprent in order to let {@link android.widget.TextView#getText()} work correctly.
+     * Set text color to transparent in order to let {@link android.widget.TextView#getText()} work correctly.
      */
     private void carveText() {
         if (mBackground != null) {
