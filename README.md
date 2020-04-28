@@ -5,13 +5,7 @@ TextView extended class with transparent (carved through) text on background.
 
 Credits
 =======
-Author : Margarita Litkevych (m.litkevych@gmail.com)
-
-Google+ : [+Margarita Litkevych](https://plus.google.com/+MargaritaLitkevych)
-
-Facebook : [Margarita Litkevych](https://www.facebook.com/margarita.litkevych)
-
-LinkedIn : [Margarita Litkevych](ua.linkedin.com/pub/margarita-litkevych/74/281/a26/)
+Author : Margarita Litkevych 
 
 (In case you use this in your app let me know to make a list of apps that use it! )
 
